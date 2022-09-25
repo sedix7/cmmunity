@@ -7,7 +7,7 @@
       width: 50%;
     }
   }
-  
+
 body{
     background-color: #fff;
     font-family: 'Abel', sans-serif;
@@ -32,4 +32,10 @@ button {
 button:hover {
     background-color: #0a0a23 ;
     transition: 0.7s;
+    cursor: pointer; 
 }
+.box {
+    color: black;
+    float: right;
+    text-align: below;
+    }
